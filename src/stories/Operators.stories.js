@@ -13,6 +13,6 @@ const Template = (args) => <Operators {...args} />;
 export const OperatorsComponent = Template.bind({});
 
 OperatorsComponent.args = {
-  backgroundColor: "#1f2326",
+  backgroundColor: "#5f4bb6",
   color: "#eee",
 };
